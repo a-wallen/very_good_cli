@@ -1,3 +1,59 @@
+# 0.23.1 
+
+- chore: update SPDX licenses ([#1126](https://github.com/VeryGoodOpenSource/very_good_cli/pull/1126), [#1128](https://github.com/VeryGoodOpenSource/very_good_cli/pull/1128))
+- feat: bump template bundles ([#1131](https://github.com/VeryGoodOpenSource/very_good_cli/pull/1131))
+- [**Very Good Flame Game**](https://github.com/VeryGoodOpenSource/very_good_templates/releases/very_good_flame_game-v0.8.1):
+  - chore: tighten template dependencies ([#190](https://github.com/VeryGoodOpenSource/very_good_templates/pull/190))
+  - fix: add closing } in build.gradle ([#189](https://github.com/VeryGoodOpenSource/very_good_templates/pull/189))
+
+# 0.23.0 
+
+- chore(deps): bump pana from 0.22.9 to 0.22.10 ([#1104](https://github.com/VeryGoodOpenSource/very_good_cli/pull/1104), [#1119](https://github.com/VeryGoodOpenSource/very_good_cli/pull/1119))
+- chore: update SPDX licenses ([#1111](https://github.com/VeryGoodOpenSource/very_good_cli/pull/1111), [#1117](https://github.com/VeryGoodOpenSource/very_good_cli/pull/1117))
+- chore: tighten dependencies ([#1121](https://github.com/VeryGoodOpenSource/very_good_cli/pull/1121))
+- feat: bump template bundles ([#1122](https://github.com/VeryGoodOpenSource/very_good_cli/pull/1122))
+- [**Very Good Core**](https://github.com/VeryGoodOpenSource/very_good_templates/releases/tag/very_good_core-v0.8.0):
+  - feat: update to Flutter 3.24 and Dart 3.5 ([#177](https://github.com/VeryGoodOpenSource/very_good_templates/pull/177))
+- [**Very Good Dart CLI**](https://github.com/VeryGoodOpenSource/very_good_templates/releases/tag/very_good_dart_cli-v0.8.0):
+  - feat: update to Flutter 3.24 and Dart 3.5 ([#177](https://github.com/VeryGoodOpenSource/very_good_templates/pull/177))
+  - chore: tighten template dependencies ([#173](https://github.com/VeryGoodOpenSource/very_good_templates/pull/173), [#178](https://github.com/VeryGoodOpenSource/very_good_templates/pull/178))
+- [**Very Good Dart Package**](https://github.com/VeryGoodOpenSource/very_good_templates/releases/tag/very_good_dart_package-v0.7.0):
+  - chore: tighten template dependencies ([#146](https://github.com/VeryGoodOpenSource/very_good_templates/pull/146))
+  - feat: update to Flutter 3.24 and Dart 3.5 ([#177](https://github.com/VeryGoodOpenSource/very_good_templates/pull/177))
+- [**Very Good Flame Game**](https://github.com/VeryGoodOpenSource/very_good_templates/releases/very_good_flame_game-v0.8.0):
+  - feat: update to Flutter 3.24 and Dart 3.5 ([#177](https://github.com/VeryGoodOpenSource/very_good_templates/pull/177))
+- [**Very Good Flutter Package**](https://github.com/VeryGoodOpenSource/very_good_templates/releases/tag/very_good_flutter_package-v0.7.0):
+  - feat: update to Flutter 3.24 and Dart 3.5 ([#177](https://github.com/VeryGoodOpenSource/very_good_templates/pull/177))
+- [**Very Good Flutter Plugin**](https://github.com/VeryGoodOpenSource/very_good_templates/releases/very_good_flutter_plugin-v0.9.0):
+  - feat: update to Flutter 3.24 and Dart 3.5 ([#177](https://github.com/VeryGoodOpenSource/very_good_templates/pull/177))
+- [**Very Good Wear App**](https://github.com/VeryGoodOpenSource/very_good_templates/releases/tag/very_good_wear_app-v0.6.0)
+  - feat: update to Flutter 3.24 and Dart 3.5 ([#177](https://github.com/VeryGoodOpenSource/very_good_templates/pull/177))
+
+# 0.22.2 
+
+- chore: bump pana from 0.22.8 to 0.22.9 ([#1088](https://github.com/VeryGoodOpenSource/very_good_cli/pull/1088))
+- chore: update SPDX licenses ([#1089](https://github.com/VeryGoodOpenSource/very_good_cli/pull/1089), [#1093](https://github.com/VeryGoodOpenSource/very_good_cli/pull/1093))
+- fix: show a better message when coverage is really close to min coverage ([#1084](https://github.com/VeryGoodOpenSource/very_good_cli/pull/1084))
+- feat: bump template bundles ([#1094](https://github.com/VeryGoodOpenSource/very_good_cli/pull/1094))
+- [**Very Good Core**](https://github.com/VeryGoodOpenSource/very_good_templates/releases/tag/very_good_core-v0.7.2):
+  - style: Adding extra space to the application opening tag ([#126](https://github.com/VeryGoodOpenSource/very_good_templates/pull/126))
+  - chore: update Java versions on Very Good Core ([#128](https://github.com/VeryGoodOpenSource/very_good_templates/pull/128))
+  - chore: update to Very Good Analysis 6.0.0 ([#135](https://github.com/VeryGoodOpenSource/very_good_templates/pull/135))
+  - chore: tighten template dependencies ([#137](https://github.com/VeryGoodOpenSource/very_good_templates/pull/137))
+- [**Very Good Dart CLI**](https://github.com/VeryGoodOpenSource/very_good_templates/releases/tag/very_good_dart_cli-v0.7.2):
+  - chore: tighten template dependencies ([#146](https://github.com/VeryGoodOpenSource/very_good_templates/pull/146), [#149](https://github.com/VeryGoodOpenSource/very_good_templates/pull/149))
+- [**Very Good Flame Game**](https://github.com/VeryGoodOpenSource/very_good_templates/releases/very_good_flame_game-v0.7.3):
+  - fix: update usage of application_id var ([#157](https://github.com/VeryGoodOpenSource/very_good_templates/pull/157))
+  - chore: use git dependency over path dependency ([#171](https://github.com/VeryGoodOpenSource/very_good_templates/pull/171))
+- [**Very Good Flutter Plugin**](https://github.com/VeryGoodOpenSource/very_good_templates/releases/very_good_flutter_plugin-v0.8.2):
+  - chore: update gradle to 7.6.1 ([#150](https://github.com/VeryGoodOpenSource/very_good_templates/pull/150))
+  - chore: update example Kotlin and AGP ([#151](https://github.com/VeryGoodOpenSource/very_good_templates/pull/151))
+  - chore: deprecate imperative apply of Flutter's Gradle plugins ([#152](https://github.com/VeryGoodOpenSource/very_good_templates/pull/152))
+  - chore: remove legacy package tag in AndroidManifest.xml ([#160](https://github.com/VeryGoodOpenSource/very_good_templates/pull/160))
+  - chore: android flutter plugin to use recommended plugin DSL ([#153](https://github.com/VeryGoodOpenSource/very_good_templates/pull/153))
+- [**Very Good Wear App**](https://github.com/VeryGoodOpenSource/very_good_templates/releases/tag/very_good_wear_app-v0.5.2):
+  - chore: remove legacy package tag in AndroidManifest.xml ([#161](https://github.com/VeryGoodOpenSource/very_good_templates/pull/161))
+
 # 0.22.1
 
 - docs: update links to templates ([#1070](https://github.com/VeryGoodOpenSource/very_good_cli/pull/1070))
@@ -16,7 +72,7 @@
 - [**Very Good Dart Package**](https://github.com/VeryGoodOpenSource/very_good_templates/releases/tag/very_good_dart_package-v0.6.1):
   - chore: update to Very Good Analysis 6.0.0 ([#135](https://github.com/VeryGoodOpenSource/very_good_templates/pull/135))
   - chore: tighten template dependencies ([#137](https://github.com/VeryGoodOpenSource/very_good_templates/pull/137))
-- [**Very Good Flame Game**](https://github.com/VeryGoodOpenSource/very_good_templates/releases/edit/very_good_flame_game-v0.7.1):
+- [**Very Good Flame Game**](https://github.com/VeryGoodOpenSource/very_good_templates/releases/very_good_flame_game-v0.7.1):
   - style: adding extra space to the application opening tag ([#126](https://github.com/VeryGoodOpenSource/very_good_templates/pull/126))
   - chore: update Java version for Very Good Flame Game ([#129](https://github.com/VeryGoodOpenSource/very_good_templates/pull/129))
   - chore: update to Very Good Analysis 6.0.0 ([#135](https://github.com/VeryGoodOpenSource/very_good_templates/pull/135))
@@ -24,7 +80,7 @@
 - [**Very Good Flutter Package**](https://github.com/VeryGoodOpenSource/very_good_templates/releases/tag/very_good_flutter_package-v0.6.1):
   - chore: update to Very Good Analysis 6.0.0 ([#135](https://github.com/VeryGoodOpenSource/very_good_templates/pull/135))
   - chore: tighten template dependencies ([#137](https://github.com/VeryGoodOpenSource/very_good_templates/pull/137))
-- [**Very Good Flutter Plugin**](https://github.com/VeryGoodOpenSource/very_good_templates/releases/edit/very_good_flutter_plugin-v0.8.1):
+- [**Very Good Flutter Plugin**](https://github.com/VeryGoodOpenSource/very_good_templates/releases/very_good_flutter_plugin-v0.8.1):
   - style: adding extra space to the application opening tag ([#126](https://github.com/VeryGoodOpenSource/very_good_templates/pull/126))
   - chore(deps): bump very_good_analysis from 5.1.0 to 6.0.0 in /very_good_flutter_plugin/hooks ([#133](https://github.com/VeryGoodOpenSource/very_good_templates/pull/133))
   - chore: update to Very Good Analysis 6.0.0 ([#135](https://github.com/VeryGoodOpenSource/very_good_templates/pull/135))
@@ -54,7 +110,7 @@
   - fix: update index.html to support latest convention ([#107](https://github.com/VeryGoodOpenSource/very_good_templates/pull/107))
 - [**Very Good Flutter Package**](https://github.com/VeryGoodOpenSource/very_good_templates/releases/tag/very_good_flutter_package-v0.6.0):
   - feat!: ensure template uses Flutter 3.22 with Dart 3.4 ([#101](https://github.com/VeryGoodOpenSource/very_good_templates/pull/101))
-- [**Very Good Flutter Plugin**](https://github.com/VeryGoodOpenSource/very_good_templates/releases/edit/very_good_flutter_plugin-v0.8.0):
+- [**Very Good Flutter Plugin**](https://github.com/VeryGoodOpenSource/very_good_templates/releases/very_good_flutter_plugin-v0.8.0):
   - refactor: remove explicitly named libraries ([#77](https://github.com/VeryGoodOpenSource/very_good_templates/pull/77))
   - test: very_good_flutter_plugin doesn't have full code coverage ([#89](https://github.com/VeryGoodOpenSource/very_good_templates/pull/89))
   - feat: update android plugin template with latest flutter changes ([#95](https://github.com/VeryGoodOpenSource/very_good_templates/pull/95))

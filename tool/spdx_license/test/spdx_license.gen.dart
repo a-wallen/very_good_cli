@@ -11,7 +11,7 @@
 library spdx_license;
 
 /// {@template spdx_license}
-/// A list of all 660 SPDX licenses.
+/// A list of all 670 SPDX licenses.
 ///
 /// These have been automatically generated from the SPDX License brick.
 /// {@endtemplate}
@@ -218,6 +218,9 @@ enum SpdxLicense {
   $DRL_1_0._('DRL-1.0'),
   $DRL_1_1._('DRL-1.1'),
   $DSDP._('DSDP'),
+  $DocBook_Schema._('DocBook-Schema'),
+  $DocBook_Stylesheet._('DocBook-Stylesheet'),
+  $DocBook_XML._('DocBook-XML'),
   $Dotseqn._('Dotseqn'),
   $ECL_1_0._('ECL-1.0'),
   $ECL_2_0._('ECL-2.0'),
@@ -297,6 +300,7 @@ enum SpdxLicense {
   $Glulxe._('Glulxe'),
   $Graphics_Gems._('Graphics-Gems'),
   $Gutmann._('Gutmann'),
+  $HIDAPI._('HIDAPI'),
   $HP_1986._('HP-1986'),
   $HP_1989._('HP-1989'),
   $HPND._('HPND'),
@@ -307,6 +311,7 @@ enum SpdxLicense {
   $HPND_Kevlin_Henney._('HPND-Kevlin-Henney'),
   $HPND_MIT_disclaimer._('HPND-MIT-disclaimer'),
   $HPND_Markus_Kuhn._('HPND-Markus-Kuhn'),
+  $HPND_Netrek._('HPND-Netrek'),
   $HPND_Pbmplus._('HPND-Pbmplus'),
   $HPND_UC._('HPND-UC'),
   $HPND_UC_export_US._('HPND-UC-export-US'),
@@ -391,6 +396,7 @@ enum SpdxLicense {
   $MIT._('MIT'),
   $MIT_0._('MIT-0'),
   $MIT_CMU._('MIT-CMU'),
+  $MIT_Click._('MIT-Click'),
   $MIT_Festival._('MIT-Festival'),
   $MIT_Khronos_old._('MIT-Khronos-old'),
   $MIT_Modern_Variant._('MIT-Modern-Variant'),
@@ -529,6 +535,7 @@ enum SpdxLicense {
   $RSCPL._('RSCPL'),
   $Rdisc._('Rdisc'),
   $Ruby._('Ruby'),
+  $Ruby_pty._('Ruby-pty'),
   $SAX_PD._('SAX-PD'),
   $SAX_PD_2_0._('SAX-PD-2.0'),
   $SCEA._('SCEA'),
@@ -581,11 +588,13 @@ enum SpdxLicense {
   $TU_Berlin_1_0._('TU-Berlin-1.0'),
   $TU_Berlin_2_0._('TU-Berlin-2.0'),
   $TermReadKey._('TermReadKey'),
+  $TrustedQSL._('TrustedQSL'),
   $UCAR._('UCAR'),
   $UCL_1_0._('UCL-1.0'),
   $UMich_Merit._('UMich-Merit'),
   $UPL_1_0._('UPL-1.0'),
   $URT_RLE._('URT-RLE'),
+  $Ubuntu_font_1_0._('Ubuntu-font-1.0'),
   $Unicode_3_0._('Unicode-3.0'),
   $Unicode_DFS_2015._('Unicode-DFS-2015'),
   $Unicode_DFS_2016._('Unicode-DFS-2016'),
@@ -604,6 +613,7 @@ enum SpdxLicense {
   $Wsuipa._('Wsuipa'),
   $X11._('X11'),
   $X11_distribute_modifications_variant._('X11-distribute-modifications-variant'),
+  $X11_swapped._('X11-swapped'),
   $XFree86_1_1._('XFree86-1.1'),
   $XSkat._('XSkat'),
   $Xdebug_1_03._('Xdebug-1.03'),
